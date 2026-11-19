@@ -1,0 +1,81 @@
+{
+  "v": 1,
+  "updated": "2026-11-19T10:44:01.550Z",
+  "featured": null,
+  "until": null,
+  "campaign": null,
+  "games": [
+    {
+      "id": "crypt",
+      "title": "Crypt",
+      "accent": "#a78bfa",
+      "tagline": "Room by room clear"
+    },
+    {
+      "id": "lure",
+      "title": "Lure",
+      "accent": "#34d399",
+      "tagline": "Pull the catch"
+    },
+    {
+      "id": "prism",
+      "title": "Prism",
+      "accent": "#fbbf24",
+      "tagline": "Place the light"
+    },
+    {
+      "id": "rift",
+      "title": "Rift",
+      "accent": "#fb7185",
+      "tagline": "Split the path"
+    },
+    {
+      "id": "asp",
+      "title": "Asp",
+      "accent": "#8dff5a",
+      "tagline": "Turn. Eat. Don't bite."
+    },
+    {
+      "id": "nacre",
+      "title": "Nacre",
+      "accent": "#f0c9a0",
+      "tagline": "Roll the pearl. Thread the shell."
+    },
+    {
+      "id": "carat",
+      "title": "Carat",
+      "accent": "#ffd37a",
+      "tagline": "Drop the jewels. Line up three."
+    },
+    {
+      "id": "quill",
+      "title": "Quill",
+      "accent": "#d4a574",
+      "tagline": "Bank the ink. Don't dry out."
+    },
+    {
+      "id": "grove",
+      "title": "Grove",
+      "accent": "#ffb347",
+      "tagline": "Catch it on the spines. Line up three."
+    },
+    {
+      "id": "ouro",
+      "title": "Ouro",
+      "accent": "#ffc95a",
+      "tagline": "Eat. Grow. Hop planets."
+    },
+    {
+      "id": "brim",
+      "title": "Brim",
+      "accent": "#7af0ff",
+      "tagline": "Blow glass. Dodge sparks. Fill to the brim."
+    },
+    {
+      "id": "spool",
+      "title": "Spool",
+      "accent": "#ff9f43",
+      "tagline": "Unpick the weave. Fill the spools."
+    }
+  ]
+}
