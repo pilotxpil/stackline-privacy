@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updated": "2026-11-19T10:44:01.550Z",
-  "featured": null,
-  "until": null,
-  "campaign": null,
+  "updated": "2026-11-19T19:07:42.533Z",
+  "featured": "grove",
+  "until": "2026-12-02",
+  "campaign": "push-grove-2026-11-19",
   "games": [
     {
       "id": "crypt",
@@ -76,6 +76,12 @@
       "title": "Spool",
       "accent": "#ff9f43",
       "tagline": "Unpick the weave. Fill the spools."
+    },
+    {
+      "id": "tier",
+      "title": "Tier",
+      "accent": "#ff8fb8",
+      "tagline": "Spin the stand. Box the sweets."
     }
   ]
 }
