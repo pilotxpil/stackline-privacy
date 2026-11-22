@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-21T18:35:16.387Z",
+  "updated": "2026-11-22T16:49:05.836Z",
   "featured": null,
   "until": null,
   "campaign": null,
@@ -10,12 +10,6 @@
       "title": "Crypt",
       "accent": "#a78bfa",
       "tagline": "Room by room clear"
-    },
-    {
-      "id": "lure",
-      "title": "Lure",
-      "accent": "#34d399",
-      "tagline": "Pull the catch"
     },
     {
       "id": "prism",
@@ -46,12 +40,6 @@
       "title": "Carat",
       "accent": "#ffd37a",
       "tagline": "Drop the jewels. Line up three."
-    },
-    {
-      "id": "quill",
-      "title": "Quill",
-      "accent": "#d4a574",
-      "tagline": "Bank the ink. Don't dry out."
     },
     {
       "id": "grove",
