@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-22T16:49:05.836Z",
+  "updated": "2026-11-22T16:51:03.576Z",
   "featured": null,
   "until": null,
   "campaign": null,
@@ -70,6 +70,12 @@
       "title": "Tier",
       "accent": "#ff8fb8",
       "tagline": "Spin the stand. Box the sweets."
+    },
+    {
+      "id": "vesper",
+      "title": "Vesper",
+      "accent": "#ffd36e",
+      "tagline": "Catch the snow globes. Keep the beat."
     },
     {
       "id": "cubemate",
