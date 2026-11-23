@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updated": "2026-11-22T16:51:03.576Z",
-  "featured": null,
-  "until": null,
-  "campaign": null,
+  "updated": "2026-11-23T11:04:14.225Z",
+  "featured": "vesper",
+  "until": "2026-11-29",
+  "campaign": "push-vesper-2026-11-23",
   "games": [
     {
       "id": "crypt",
