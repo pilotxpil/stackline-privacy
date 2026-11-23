@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-11-23T16:16:18.584Z",
+  "updated": "2026-11-23T22:22:15.262Z",
   "featured": "vesper",
   "until": "2026-12-06",
   "campaign": "push-vesper-2026-11-23",
@@ -82,6 +82,12 @@
       "title": "Cubemate",
       "accent": "#ffc93a",
       "tagline": "Blocky chess. Treasure on the board."
+    },
+    {
+      "id": "twain",
+      "title": "Twain",
+      "accent": "#ff8fb0",
+      "tagline": "Two otters. One swipe. Meet in the middle."
     }
   ]
 }
